@@ -1,0 +1,20 @@
+.grid{
+    background-color:rgb(243, 73, 73);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+}
+
+.header{
+    background-color:rgb(247, 14, 49);
+    display:flex;
+    justify-content: center ;
+    
+}
+
+
+
+body{background-color:rgb(255,102,153) ;
+}
+            h1{text-align:center;color: yellow;font-family:Forte;}
+            h2{text-align:left;color: rgb(0, 255, 234);font-family:Forte;}
